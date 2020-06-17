@@ -28,16 +28,8 @@ projects:
     projects:
     # - repo-name
 
-social_media:
-  # behance: your_username
-  # facebook: your_username
-  # dribbble: your_username
-  # linkedin: your_username
-  stackoverflow: 12720592
-  # twitter: your_username
-  # youtube: your_username
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
@@ -47,7 +39,7 @@ social_media:
   # linkedin: your_username
   # mastodon: your_username
   # medium: your_username
-  # stackoverflow: 12720592
+    stackoverflow: 12720592
   # telegram: your_username
   # twitter: your_username
   # unsplash: your_username
